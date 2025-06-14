@@ -39,7 +39,4 @@ The target variable is academic performance, classified as Excellent or Not Exce
 - ROC-AUC Score: 0.89
 - Precision, Recall, F1-score also evaluated
 
-## Requirements
-
-Install the necessary dependencies using the command:
 
