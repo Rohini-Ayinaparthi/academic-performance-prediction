@@ -1,5 +1,3 @@
-# academic-performance-prediction
-A machine learning model to predict academic performance based on mental health data
 # Academic Performance Prediction
 
 This project predicts academic performance of students using data related to mental health, lifestyle, and behavioral patterns.
